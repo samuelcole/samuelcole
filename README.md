@@ -15,7 +15,7 @@ before that:
 based in new york city ❤️
 
 ### elsewhere
-- [samuelcole.name](https://samuelcole.name)
+- [samuelcole.name](https://www.samuelcole.name)
 - [linkedin](https://www.linkedin.com/in/samuelcole)
 - [goodreads](https://www.goodreads.com/user/show/131140-samuel)
 - [email](mailto:sam@samuelcole.name)
