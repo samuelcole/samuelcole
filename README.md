@@ -6,7 +6,7 @@ i'm the cto at [lemontree](https://www.foodhelpline.org), a non-profit tech comp
 
 before that:
 
-- [actblue](https://www.actblue.com) — built an embeddable donation form for biden + nonprofits
+- [actblue](https://www.actblue.com) — built an embeddable donation form for biden 2020 + nonprofits
 - [abacus](https://www.emburse.com/products/abacus) — one of five engineers
 - [jukely](https://www.reddit.com/r/indie/comments/zi6u04/any_previous_jukely_users_out_there/) — lead web engineer
 - [kickstarter](https://www.kickstarter.com) — twelfth employee, third engineer
