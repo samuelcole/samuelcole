@@ -1,16 +1,21 @@
-## Hi there 👋
+# samuel cole
 
-<!--
-**samuelcole/samuelcole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i make things. mostly websites.
 
-Here are some ideas to get you started:
+i'm the cto at [lemontree](https://www.foodhelpline.org), a non-profit tech company building a platform that connects people to free food in their communities. what started as a small nyc helpline has grown into a multi-state movement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+before that:
+
+- [actblue](https://www.actblue.com) — fundraising tech for progressives
+- [abacus](https://www.emburse.com/products/abacus) — financial software for young companies
+- [jukely](https://www.reddit.com/r/indie/comments/zi6u04/any_previous_jukely_users_out_there/) — lead web engineer
+- [kickstarter](https://www.kickstarter.com) — twelfth employee, third engineer
+- [patch](https://patch.com) — first front-end engineer
+
+based in new york city ❤️
+
+### elsewhere
+- [samuelcole.name](https://samuelcole.name)
+- [linkedin](https://www.linkedin.com/in/samuelcole)
+- [goodreads](https://www.goodreads.com/user/show/131140-samuel)
+- [email](mailto:sam@samuelcole.name)
